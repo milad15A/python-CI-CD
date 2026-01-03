@@ -4,4 +4,3 @@ It serves as a demonstration of a basic Python program.
 """
 
 print("Hello, World!")
-
