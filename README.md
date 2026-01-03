@@ -36,3 +36,5 @@ The pipeline demonstrates best practices for CI/CD and can be extended for more 
 ## Notes
 
 This challenge should take approximately 15 minutes to complete.
+
+[![Python CI/CD Pipeline](https://github.com/milad15A/python-CI-CD/actions/workflows/python-pipline.yml/badge.svg)](https://github.com/milad15A/python-CI-CD/actions/workflows/python-pipline.yml)
